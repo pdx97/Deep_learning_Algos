@@ -1,2 +1,2 @@
 # Machine_learning_Algos
-Codes of different types machine learning algoriths
+Codes of different types machine learning algorithms
